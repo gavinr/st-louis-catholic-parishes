@@ -1,4 +1,4 @@
-# St. Louis Catholic Parishes
+# Archdiocese of St. Louis Catholic Parishes
 
 
 [![screenshot](https://i.imgur.com/3F0hgIs.png)](https://arcgis.com/home/webmap/viewer.html?webmap=4ec233ec28d44c7da98e6dee3d1b3745)
