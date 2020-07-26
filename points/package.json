@@ -18,10 +18,11 @@
   },
   "homepage": "https://github.com/gavinr/st-louis-catholic-parishes#readme",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.2",
-    "eslint": "^5.7.0",
-    "json2csv": "^4.2.1",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.2"
+    "cheerio": "1.0.0-rc.3",
+    "eslint": "^7.5.0",
+    "geojson": "^0.5.0",
+    "json2csv": "^5.0.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
   }
 }
